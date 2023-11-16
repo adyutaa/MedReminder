@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "325645361126",
+    "project_id": "medremind-e7313",
+    "storage_bucket": "medremind-e7313.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:325645361126:android:ec2ce0ef1cb34e40350027",
+        "android_client_info": {
+          "package_name": "com.example.tubes_pab"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAZIxKUqGvr6gKyhEuC3juc7Xz6KPf3Bjg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
